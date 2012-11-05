@@ -1,4 +1,6 @@
 port7
 =====
 
-simple echo service
+Accepts connections on port 7, echos back data.
+
+Requires [libevent2](http://libevent.org/ "libevent - an event notification library")
